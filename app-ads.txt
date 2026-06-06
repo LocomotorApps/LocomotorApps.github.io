@@ -1,3 +1,4 @@
 google.com, pub-3896113784347014, DIRECT, f08c47fec0942fa0
 facebook.com, 1692156758569164, DIRECT, c3e20eee3f780d68
 inmobi.com, c952c8af458b41eab4bbd21be50e9c4b, DIRECT, 83e75a7ae333ca9d
+vungle.com, 6a24151e1e0e24ae10e77377, DIRECT, c107d686becd2d77
